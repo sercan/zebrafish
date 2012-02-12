@@ -1,5 +1,3 @@
-package imagemanipulation;
-
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;

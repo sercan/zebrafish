@@ -2,10 +2,11 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package imagemanipulation;
+
+//import java.awt.*;
+//import java.awt.Image;
 
 import java.awt.*;
-import java.awt.Image;
 import java.awt.image.*;
 import java.util.ArrayList;
 import java.util.Collections;
